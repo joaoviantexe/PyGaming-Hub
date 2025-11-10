@@ -28,7 +28,6 @@ PyGaming Hub/
 
 O arquivo `data.inf` é essencial e deve ter o seguinte formato: 
 ```
-ini
 [Game]
 nome = Nome de Exibição do Jogo
 autores = Nome do Autor 1, Autor 2 
@@ -40,23 +39,21 @@ O script `main.py` do seu jogo (como o "Simple Mover" de exemplo) deve ser capaz
 Você precisará do Python 3 e da biblioteca Pygame instalados. 
 1. **Clone este repositório:**
 ```
-bash git clone https://github.com/seu-usuario/pygaming-hub.git
+git clone https://github.com/seu-usuario/pygaming-hub.git
 cd pygaming-hub
 ```
 2. **(Opcional) Crie um ambiente virtual:**
 ```
-bash
 python -m venv venv
 source venv/bin/activate  # No Windows: venv\Scripts\activate
 ```
 3. **Instale as dependências:**
 ```
-bash
 pip install pygame
 ```
 5. **Execute o console:**
 ```
-bash python main.py
+python main.py
 ```
 Na primeira execução, a pasta `conf/` e o arquivo `conf.ini` com as configurações padrão serão criados automaticamente. --- 
 
