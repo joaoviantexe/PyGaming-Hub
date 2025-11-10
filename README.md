@@ -1,10 +1,14 @@
 # PyGaming Hub 🎮 
 
-Um launcher de jogos educacionais feitos em Python, desenvolvido com a biblioteca Pygame. Este projeto funciona como um *frontend* (interface) de console arcade, projetado para descobrir e lançar outros jogos em Pygame de forma organizada. --- 
+Um launcher de jogos educacionais feitos em Python, desenvolvido com a biblioteca Pygame. Este projeto funciona como um *frontend* (interface) de console arcade, projetado para descobrir e lançar outros jogos em Pygame de forma organizada.  
 
 ## 🎯 Sobre o Projeto O **PyGaming Hub** foi criado com um duplo objetivo: 
 1. **Como Produto:** Servir como um hub centralizado e simples para organizar e jogar pequenos jogos educacionais feitos em Python/Pygame. É ideal para *game jams*, oficinas de programação ou para agrupar projetos de uma turma.
-2. **Como Estudo:** Ser um projeto prático que demonstra conceitos importantes de desenvolvimento de software em Python, como: * Gerenciamento de "estados" (telas) em Pygame (menu, ajuda, biblioteca, etc.). * Leitura e escrita de arquivos de configuração externos (`.ini`). * Detecção dinâmica de conteúdo (varredura de pastas de jogos). * Execução de scripts Python externos como subprocessos. 
+2. **Como Estudo:** Ser um projeto prático que demonstra conceitos importantes de desenvolvimento de software em Python, como:
+* Gerenciamento de "estados" (telas) em Pygame (menu, ajuda, biblioteca, etc.).
+* Leitura e escrita de arquivos de configuração externos (`.ini`).
+* Detecção dinâmica de conteúdo (varredura de pastas de jogos).
+* Execução de scripts Python externos como subprocessos. 
 
 ## ✨ Funcionalidades 
 * **Menu Principal Navegável:** Interface limpa para acessar as diferentes seções do console.
